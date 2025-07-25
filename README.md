@@ -1,4 +1,4 @@
-# AI-Image-Captioning-for-the-Visually-Impaired-
+# Seeing Through Words - AI Image Captioning
 
 # Summary 
 
