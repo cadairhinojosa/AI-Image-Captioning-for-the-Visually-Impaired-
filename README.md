@@ -13,4 +13,5 @@ Seeing Through Words is a web application that takes an image - Proccesses that 
 
 - # Demo Video
 - 
-![ImageCap](https://github.com/user-attachments/assets/f4485ce9-98d4-4955-ad98-98258d100fb6)
+
+![ImageCap1](https://github.com/user-attachments/assets/090fadab-9caf-413e-a4b1-f04573c013cf)
